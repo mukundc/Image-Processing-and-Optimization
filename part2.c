@@ -1,5 +1,4 @@
-/* Parul Singh cs61c-hz
-   Mukund Chillakanti cs61c-oz
+/*  Mukund Chillakanti cs61c-oz
 */
 #include <emmintrin.h>
 #include <omp.h>

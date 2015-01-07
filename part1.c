@@ -1,5 +1,4 @@
-/* Parul Singh cs61c-hz
-   Mukund Chillakanti cs61c-oz
+/* Mukund Chillakanti cs61c-oz
 */
 #include <emmintrin.h>
 #define KERNX 3 //this is the x-size of the kernel. It will always be odd.
